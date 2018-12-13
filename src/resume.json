@@ -1,0 +1,84 @@
+{
+	"name": "Anand Deep Singh",
+	"img"	: "https://secure.gravatar.com/avatar/f5ca91702c2f233662054a62ff730372/?s=120&d",
+	"designation": "Senior Web Developer",
+	"email":	"singh.ananddeep@gmail.com",
+	"github": "ananddeepsingh",
+	"githubURL": "http://www.github.com/ananddeepsingh",
+	"twittername": "ananddeepsingh",
+	"twitterURL": "https://twitter.com/ananddeepsingh",
+	"website": "https://www.ananddeepsingh.com",
+	"linkedInURL": "https://linkedin.com/in/anand-deep-singh",
+	"experiences" : [
+		{
+			"title" : "Web Developer",
+			"period": "Jun 2007 - Dec 2010",
+			"company": "Akiko Sherman Infotech Pvt. Ltd.",
+			"companyURL": "http://www.shermanindia.com/",
+			"details": "Worked for big accounts like  Reader Digest Magazine, ESPN Shop, Mattle, ToysRUs etc. My role was to convert PSD to XHTML and provided support for front-end need, to fix defects on different environments etc"
+		}
+
+	],
+	"projects": [
+		
+		{
+			"name":"RegCo Submission - Singapore Exchange",
+			"url": "https://mylogin.sgx.com/mylogin/XUI/#login/",
+			"detail": "The SGX RegCo Submission system is a web-based portal which enables issuers or their professional advisors to submit regulatory applications to the Singapore Exchange Regulation Pte. Ltd. (SGX RegCo)."
+		}
+	],
+	"skills": [
+		
+		{
+			"name": "Javascript",
+			"percent": "50%"
+		},
+		{
+			"name": "Angular",
+			"percent": "40%"
+		},
+		{
+			"name": "React",
+			"percent": "40%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "80%"
+		},
+		{
+			"name": "Photoshop",
+			"percent": "80%"
+		}
+	],
+	"education": [
+		{
+			"degree": "PG in I.T.",
+			"university": "Symbosis ",
+			"period": "2008 - 2010"
+		},
+		{
+			"degree": "B. Com",
+			"university": "Delhi University",
+			"period": "2004 - 2007"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Professional"
+		},
+		{
+			"name":"Punjabi",
+			"details": "Native"
+		},
+		{
+			"name":"Hindi",
+			"details": "Native"
+		}
+	],
+	"interests": [
+		"Photography",
+		"Music (Playing & Singing )",
+		"Coding"
+	]
+}
