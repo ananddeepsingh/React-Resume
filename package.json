@@ -1,5 +1,5 @@
 {
-  "name": "React Resume",
+  "name": "react-resume",
   "version": "0.1.0",
   "email" : "singh.ananddeep@gmail.com",
   "desc": "A ReactJS based Resume App which accept a JSON file [src/resume.json]",
